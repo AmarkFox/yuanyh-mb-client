@@ -1,4 +1,6 @@
     export default {
+	    MAX_ATTACHMENT_SIZE: 5000000,
+	    STRIPE_KEY: "pk_test_SAyaLeXNUrTJfzvw452yv7aW00j8cjdeML",
         s3: {
             REGION: "ap-southeast-1",
             BUCKET: "yuanyh-mb"
